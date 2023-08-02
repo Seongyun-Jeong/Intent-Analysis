@@ -1,0 +1,28 @@
+amagup@google.com
+amallampati@google.com
+amruthr@google.com
+breadley@google.com
+chinmayd@google.com
+fionaxu@google.com
+huiwang@google.com
+jackyu@google.com
+jayachandranc@google.com
+linggm@google.com
+pmadapurmath@google.com
+rgreenwalt@google.com
+sarahchin@google.com
+sasindran@google.com
+tgunn@google.com
+tjstuart@google.com
+tnd@google.com
+xiaotonj@google.com
+
+# Temporarily reduced the owner during refactoring
+per-file SubscriptionController.java=set noparent
+per-file SubscriptionController.java=jackyu@google.com,amruthr@google.com
+per-file SubscriptionInfoUpdater.java=set noparent
+per-file SubscriptionInfoUpdater.java=jackyu@google.com,amruthr@google.com
+
+
+
+
